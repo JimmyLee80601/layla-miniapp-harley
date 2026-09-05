@@ -1,0 +1,6 @@
+{
+  "title": "Harley Content Studio",
+  "tagline": "AI companion + content generation + gallery",
+  "description": "Chat with Harley, generate images with on-device Stable Diffusion, manage prompts, and browse your gallery. 100% offline.",
+  "iconUri": "icon.png"
+}

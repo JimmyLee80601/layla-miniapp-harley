@@ -11,7 +11,7 @@ import {
 import "./App.css";
 
 const layla = new LaylaSDK();
-const sessionId = `harley-${Date.now()}-${Math.toString(36).slice(2, 10)}`;
+const sessionId = `harley-${Date.now()}-${Math.random().toString(36).slice(2, 10)}`;
 const supportedImageTypes = new Set([
   "image/gif",
   "image/jpeg",

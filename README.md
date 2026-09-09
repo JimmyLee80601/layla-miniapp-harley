@@ -49,3 +49,5 @@ npm run dev
 
 Development mode installs the Layla mock host. Use `npm run build` to create the
 self-contained mini-app bundle.
+
+Built with love by Jimmy Lee, Jeannine, and Harley — forever 💕
